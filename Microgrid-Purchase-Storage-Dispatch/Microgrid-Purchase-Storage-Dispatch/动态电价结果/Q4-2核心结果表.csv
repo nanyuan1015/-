@@ -1,0 +1,16 @@
+﻿指标,数值,单位,来源文件,来源字段,生成性质
+正式评价天数,334,天,02_论文核心结果/Q4-2/正式P2结果/run_summary.json,evaluation_days,整理生成
+计划购电量,21056911.000289254,kWh,02_论文核心结果/Q4-2/正式P2结果/run_summary.json,plan_kwh,整理生成
+紧急购电量,271858.5242898813,kWh,02_论文核心结果/Q4-2/正式P2结果/run_summary.json,emergency_kwh,整理生成
+计划购电费用,13566027.321079101,元,02_论文核心结果/Q4-2/正式P2结果/run_summary.json,plan_cost,整理生成
+紧急购电费用,1503128.3783546074,元,02_论文核心结果/Q4-2/正式P2结果/run_summary.json,emergency_cost,整理生成
+总实际费用,15069155.69943371,元,02_论文核心结果/Q4-2/正式P2结果/run_summary.json,total_actual_cost,整理生成
+紧急购电天数,223,天,02_论文核心结果/Q4-2/正式P2结果/run_summary.json,emergency_days,整理生成
+紧急购电时段数,2988,个,02_论文核心结果/Q4-2/正式P2结果/run_summary.json,emergency_slots,整理生成
+终端SOC,2726.996088133034,kWh,02_论文核心结果/Q4-2/正式P2结果/run_summary.json,terminal_soc,整理生成
+价格预测MAE,0.08266928345689574,元/kWh,02_论文核心结果/Q4-2/正式P2结果/price_forecast_summary.json,mae,整理生成
+价格预测RMSE,0.1052650947390656,元/kWh,02_论文核心结果/Q4-2/正式P2结果/price_forecast_summary.json,rmse,整理生成
+低价区充电比例,0.490670364928909,比例0~1,02_论文核心结果/Q4-2/正式P2结果/run_summary.json,low_price_charge_ratio,整理生成
+高价区放电比例,0.7165188584455141,比例0~1,02_论文核心结果/Q4-2/正式P2结果/run_summary.json,high_price_discharge_ratio,整理生成
+平均充电价格,0.5184443441938706,元/kWh,02_论文核心结果/Q4-2/正式P2结果/run_summary.json,avg_charge_price,整理生成
+平均放电价格,1.1598279128735527,元/kWh,02_论文核心结果/Q4-2/正式P2结果/run_summary.json,avg_discharge_price,整理生成

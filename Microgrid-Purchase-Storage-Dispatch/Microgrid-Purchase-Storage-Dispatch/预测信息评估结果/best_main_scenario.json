@@ -1,0 +1,9 @@
+{
+  "criterion": "actual_total_cost",
+  "best_main_scenario": "D6_12_18",
+  "best_actual_total_cost": 14395554.439062381,
+  "best_inventory_adjusted_scenario": "D6_12_18",
+  "best_inventory_adjusted_cost": 14395646.641395757,
+  "note": "B1也参与主策略比较；若B1最低，说明当前数据与结算下日内合同更新未产生净经济收益。G不参与主模型最优方案选择。",
+  "final_result3": "E:\\C\\q3_output\\annual\\refund\\lexicographic\\terminal1\\result3.xlsx"
+}

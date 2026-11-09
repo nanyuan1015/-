@@ -1,0 +1,28 @@
+{
+  "version": "q3-rolling-v4-D-main-template-preserved",
+  "code_sha256": "3893e8b02909b5b0d7822398741851aac409659ef11ba7c20bb514b1184da486",
+  "resume_patch": "output-time-mapping-v1",
+  "scenario": "B1",
+  "start_date": "2025-02-01",
+  "end_date": "2025-12-31",
+  "initial_soc": 1440.2328663888889,
+  "settlement": "refund",
+  "policy": {
+    "load_mode": "week_mean",
+    "pv_days": 3,
+    "reserve": 0.0,
+    "mu_factor": 0.0
+  },
+  "time_limit": 30.0,
+  "lexicographic": true,
+  "lex_cost_eps": 1e-06,
+  "history_days": 7,
+  "min_history_days": 3,
+  "terminal_weight": 1.0,
+  "input_sha256": {
+    "附件1": "66b87134f5ecccd68184d3539bb1293ef039f9e0fdd955a589b9bfa7f227c377",
+    "附件2": "2e95fd446bfafa0d8c59577b5c2e2ea8b3f1def20dde54a3062556f4da9b4c72",
+    "附件3": "8a61b06c52bd0d639a1cc37c61a7d9f5b75edcbca718f64c1bd3498ec9f9d843",
+    "result3_template": "c59da470cabd0be23f602c95c8aa9d11ec224a0cdac216b3e1f218e65d006bdc"
+  }
+}

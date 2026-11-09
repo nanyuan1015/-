@@ -1,0 +1,31 @@
+{
+  "scenario": "B1",
+  "mode": "annual",
+  "complete_evaluation_period": true,
+  "initial_soc": 1440.2328663888889,
+  "terminal_soc": 1216.7421579629633,
+  "soc_min_kwh": 1200.0,
+  "soc_max_kwh": 10800.000000000004,
+  "mean_daily_soc_range_kwh": 9414.985286698915,
+  "total_actual_cost": 15253985.48828828,
+  "total_emergency_kwh": 651329.3546130081,
+  "total_adjustment_abs_kwh": 0.0,
+  "adjustment_nodes": 0,
+  "settlement": "refund",
+  "template_headers_preserved": true,
+  "template_source": "E:\\C\\data\\result3.xlsx",
+  "lexicographic": true,
+  "lex_cost_eps": 1e-06,
+  "model_role": "baseline",
+  "historical_candidate_check": false,
+  "history_days": 7,
+  "terminal_weight": 1.0,
+  "cross_day_forecast_used": false,
+  "workbook": "E:\\C\\q3_output\\annual\\refund\\lexicographic\\terminal1\\B1\\result3.xlsx",
+  "policy": {
+    "load_mode": "week_mean",
+    "pv_days": 3,
+    "reserve": 0.0,
+    "mu_factor": 0.0
+  }
+}
